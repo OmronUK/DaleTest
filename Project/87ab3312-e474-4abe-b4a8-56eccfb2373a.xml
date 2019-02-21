@@ -9,4 +9,5 @@ _EN=Variables
 ++D=BOOL	N=fred2	G=VAR
 ++D=BOOL	N=out2	G=VAR
 ++D=BOOL	N=out3	G=VAR
+++D=BOOL	N=out4	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup

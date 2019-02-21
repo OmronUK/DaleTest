@@ -5,4 +5,5 @@ _EN=Variables
 ++D=BOOL	N=out1	G=VAR
 ++D=BOOL	N=branch1	G=VAR
 ++D=BOOL	N=wayne	G=VAR
+++D=BOOL	N=fred	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup

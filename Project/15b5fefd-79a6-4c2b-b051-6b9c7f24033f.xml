@@ -1,1 +1,1 @@
-﻿{"CLs":[{"__type":"LD","Var":"in1"},{"__type":"LD","Ix":1,"Var":"branch1","X":1},{"__type":"LD","Ix":2,"Var":"wayne","X":2},{"__type":"ST","Ix":3,"Var":"out1","X":3}],"LRI":4,"RRI":5,"VLs":[]}
+﻿{"CLs":[{"__type":"LD","Var":"in1"},{"__type":"LD","Ix":1,"Var":"branch1","X":1},{"__type":"LD","Ix":2,"Var":"wayne","X":2},{"__type":"ST","Ix":3,"Var":"out1","X":3},{"__type":"ST","Ix":4,"Var":"out2","X":3,"Y":1}],"LRI":5,"RRI":6,"VLs":[{"Ix":7,"X":3}]}

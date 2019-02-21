@@ -7,4 +7,5 @@ _EN=Variables
 ++D=BOOL	N=wayne	G=VAR
 ++D=BOOL	N=fred	G=VAR
 ++D=BOOL	N=fred2	G=VAR
+++D=BOOL	N=out2	G=VAR
 +GN=VAR_EXTERNAL	GA=External	GVT=ExternalGroup
